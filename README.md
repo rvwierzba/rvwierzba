@@ -54,7 +54,7 @@ Desenvolvedor Fullstack com mais de 4 anos de experiência em desenvolvimento we
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvwierzba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvwierzba&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvwierzba&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
@@ -111,7 +111,7 @@ Fullstack Developer with over 4 years of experience in web and desktop applicati
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvwierzba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvwierzba&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvwierzba&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
