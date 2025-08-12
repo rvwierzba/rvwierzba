@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="#-versão-em-português">🇧🇷 Versão em Português</a> • <a href="#-english-version">🇬🇧 English Version</a>
+  <a href="#-versão-em-português">🇧🇷 Versão em Português</a> • <a href="#-english-version">🇺🇸 English Version</a>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/rvwierzba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/rvwierzba" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:rafaelwierzba@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -72,7 +72,7 @@ Desenvolvedor Fullstack com mais de 4 anos de experiência em desenvolvimento we
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/rvwierzba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/rvwierzba" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:rafaelwierzba@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -81,7 +81,7 @@ Desenvolvedor Fullstack com mais de 4 anos de experiência em desenvolvimento we
 
 ### 👨‍💻 About Me
 
-Fullstack Developer with over 4 years of experience in web and desktop application development. I have a degree in **IT Management** and a postgraduate degree in **Software Engineering**, with proficiency in C#, PHP, JavaScript, React, and agile methodologies (Scrum). I am always looking to contribute to innovative companies on challenging projects.
+Fullstack Developer with over 4 years of experience in web and desktop application development. I have a degree in **IT Management** and a graduate degree in **Software Engineering**, with proficiency in C#, PHP, JavaScript, React, and agile methodologies (Scrum). I am always looking to contribute to innovative companies on challenging projects.
 
 - 🔭 I'm currently working as a **PHP Developer at Conecttar Personal IT**, focusing on foreign trade systems and integration with the SISCOMEX API (Gov).
 - 🎓 I was a **Web Development Instructor at Proz**, where I had the pleasure of successfully training over 100 students.
