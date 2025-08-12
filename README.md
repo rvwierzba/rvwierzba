@@ -6,13 +6,15 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQE-abbrDKx0hw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707653121418?e=1758153600&v=beta&t=Xub1nvfWVpsMZ4UQGdfCF3Ylvmo-8LO5ZE5szwvLQP4" alt="Banner Rafael Wierzba"/>
 </p>
 
+<div style="display: flex; align-items: center;">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHpGzL4qowePg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1704819294145?e=1758153600&v=beta&t=23o1cniYN_2fflBcWpuD2Y-vCoAKd7_AbH-PeiDD4Ks" width="150" height="150" alt="Foto de Rafael Wierzba" style="border-radius: 50%; margin-right: 20px;">
+  <div>
+    <h1>Rafael Vinicius Wierzba 👋</h1>
+    <strong>Desenvolvedor Fullstack | C# | PHP | JavaScript | React | APIs REST</strong>
+  </div>
+</div>
+
 <div id="-versão-em-português">
-
-<h1 align="center">Rafael Vinicius Wierzba 👋</h1>
-
-<p align="center">
-  <strong>Desenvolvedor Fullstack | C# | PHP | JavaScript | React | APIs REST</strong>
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/rvwierzba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -65,11 +67,13 @@ Desenvolvedor Fullstack com mais de 4 anos de experiência em desenvolvimento we
 
 <div id="-english-version">
 
-<h1 align="center">Hello, I'm Rafael Vinicius Wierzba 👋</h1>
-
-<p align="center">
-  <strong>Fullstack Developer | C# | PHP | JavaScript | React | REST APIs</strong>
-</p>
+<div style="display: flex; align-items: center;">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHpGzL4qowePg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1704819294145?e=1758153600&v=beta&t=23o1cniYN_2fflBcWpuD2Y-vCoAKd7_AbH-PeiDD4Ks" width="150" height="150" alt="Rafael Wierzba's Photo" style="border-radius: 50%; margin-right: 20px;">
+  <div>
+    <h1>Hello, I'm Rafael Vinicius Wierzba 👋</h1>
+    <strong>Fullstack Developer | C# | PHP | JavaScript | React | REST APIs</strong>
+  </div>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/rvwierzba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
